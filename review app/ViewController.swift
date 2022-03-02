@@ -19,6 +19,8 @@ class ViewController: UIViewController
     
     {
         super.viewDidLoad()
+        // colin is cool
+        
         
         myLabel.text = "how u doin?"
         view.backgroundColor = UIColor.brown
